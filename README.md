@@ -5,6 +5,7 @@
 * controller
 * view
 * functions
+
 Разработчики:
 модуль main и модуль controller делает - Ковалев Александр
 модуль view и модуль functions делает - Алекс Кова
