@@ -4,8 +4,8 @@
 * main
 * controller
 * view
-* functions
+* model
 
 Разработчики:
-модуль main и модуль controller делает - Ковалев Александр
-модуль view и модуль functions делает - Алекс Кова
+модуль main, controller, model подготавливает [KovaAlex](./https://github.com/KovaAlex)
+модуль view делает - ... а также дорабатывает модули main, controller и model 
