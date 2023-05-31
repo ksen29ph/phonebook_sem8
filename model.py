@@ -8,7 +8,7 @@ def add_data():
     phone_number = input('Введите номер телефона: ')
     with open('phonebook.txt', 'a', encoding='utf-8') as f:
         f.write(f'\n{fio} | {phone_number}')
-    print('Успешно!')
+    print('Новый контакт записан!')
 
 def find_data():
     data = input('Введите данные для поиска: ')
@@ -33,8 +33,8 @@ def edit_data():
     print(phone_book)
 
 def edited(text: str):
-    fio = input('Введите ФИО: ')
-    number = input('Введите номер телефона: ')
+    fio = input('Введите ФИО абонента: ')
+    number = input('Введите номер телефона абонента: ')
     if len(fio) == 0:
         fio = text.split(' | ')[0]
     if len(number) == 0:
