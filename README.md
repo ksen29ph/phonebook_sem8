@@ -7,5 +7,5 @@
 * model
 
 Разработчики:
-модуль main, controller, model подготавливает [KovaAlex](./https://github.com/KovaAlex)
-модуль view делает - ... а также дорабатывает модули main, controller и model 
+1. модуль main, controller, model подготавливает [KovaAlex](./https://github.com/KovaAlex)
+2. модуль view делает - ... а также дорабатывает модули main, controller и model 
